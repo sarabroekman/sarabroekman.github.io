@@ -7,10 +7,8 @@ title: Bioplastics
 
 ## Subtitle
 
-First post on my Github Jekyll page on the first day of the BioHack Academy
+The first day of the BioHack Academy, we made different kinds of bioplastics. We experimented with different compositions of gelatine, glycerine, agar etcetera. 
 
-**bold**
 
-[link to google](www.google.com)
+![Photo of bioplastics](../images/bioplastics.jpg)
 
-![Foto van blabla](../images/404.jpg)
